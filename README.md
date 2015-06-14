@@ -1,6 +1,8 @@
 Unity Manual
 ===========
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/mijecu25/unity-manual/master/LICENSE)
+
 During the summer of 2014, I performed an Individual Study of Game Development using Unity at the University of St. Thomas under the supervision of Patrick Jarvis. During this time, I independently learned Unity programming and wrote a manual for students.
 
 ===========  
